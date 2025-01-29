@@ -1,0 +1,4 @@
+2,Jane Smith,11,92
+3,Tom Brown,10,78
+8,yonas,10,0
+6,abebe,10,0,Rjt}ocgm
