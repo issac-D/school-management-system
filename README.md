@@ -1,4 +1,4 @@
-# School Management System
+# School Management System short Draft
 
 This Python script using the Tkinter library provides a basic school management system with features for:
 
