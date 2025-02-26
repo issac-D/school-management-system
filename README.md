@@ -56,3 +56,4 @@ This Python script using the Tkinter library provides a basic school management 
     * More comprehensive student and parent functionalities.
     * User interface improvements.
 * The ID generation and password generation functions (`generate_id` and `generate_password`) are included in this example.
+enjoy..
